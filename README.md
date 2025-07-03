@@ -46,9 +46,3 @@ A modern, secure, and scalable file-sharing web application built using **AWS S3
 - AWS Account with Amplify, S3, and DynamoDB access
 - Amplify CLI installed (`npm install -g @aws-amplify/cli`)
 
-### Setup
-
-1. **Clone the repo**
-   ```bash
-   git clone https://github.com/yourusername/aws-file-sharing-app.git
-   cd aws-file-sharing-app
