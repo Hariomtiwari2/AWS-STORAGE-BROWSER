@@ -1,25 +1,47 @@
-## AWS Amplify Next.js (App Router) Starter Template
+# 📁 AWS File Sharing Web App
 
-This repository provides a starter template for creating applications using Next.js (App Router) and AWS Amplify, emphasizing easy setup for authentication, API, and database capabilities.
+A modern, secure, and scalable file-sharing web application built using **AWS S3**, **DynamoDB**, and **AWS Amplify** for hosting and authentication. Users can upload, share, and manage files easily through a responsive interface.
 
-## Overview
+---
 
-This template equips you with a foundational Next.js application integrated with AWS Amplify, streamlined for scalability and performance. It is ideal for developers looking to jumpstart their project with pre-configured AWS services like Cognito, AppSync, and DynamoDB.
+## 🚀 Features
 
-## Features
+- 🔐 **User Authentication** (via AWS Amplify Auth)
+- 📤 **Upload Files** to AWS S3
+- 📥 **Download/Preview** files
+- 📄 **Metadata Storage** with DynamoDB (e.g., file name, owner, upload date)
+- 📎 **Public/Private File Sharing**
+- 🌐 **Fully Hosted** on AWS Amplify
 
-- **Authentication**: Setup with Amazon Cognito for secure user authentication.
-- **API**: Ready-to-use GraphQL endpoint with AWS AppSync.
-- **Database**: Real-time database powered by Amazon DynamoDB.
+---
 
-## Deploying to AWS
+## 🛠️ Tech Stack
 
-For detailed instructions on deploying your application, refer to the [deployment section](https://docs.amplify.aws/nextjs/start/quickstart/nextjs-app-router-client-components/#deploy-a-fullstack-app-to-aws) of our documentation.
+| Layer              | Service/Tool        |
+|-------------------|---------------------|
+| Frontend          | React + Amplify UI  |
+| File Storage      | Amazon S3           |
+| Backend/Database  | DynamoDB            |
+| Hosting & Auth    | AWS Amplify         |
 
-## Security
+---
 
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
+##
+(https://github.com/user-attachments/assets/8d891b9d-dd20-4c06-9bfd-715f62306a7d)
+ 
+---
 
-## License
+## 🧑‍💻 Getting Started
 
-This library is licensed under the MIT-0 License. See the LICENSE file.
+### Prerequisites
+
+- Node.js & npm
+- AWS Account with Amplify, S3, and DynamoDB access
+- Amplify CLI installed (`npm install -g @aws-amplify/cli`)
+
+### Setup
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/yourusername/aws-file-sharing-app.git
+   cd aws-file-sharing-app
