@@ -27,9 +27,15 @@ A modern, secure, and scalable file-sharing web application built using **AWS S3
 ---
 
 ##
-![App Screenshot](https://github.com/Hariomtiwari2/AWS-STORAGE-BROWSER/raw/main/Screenshot%202025-07-03%20190448.png)
 
- 
+![Upload Screen](https://github.com/Hariomtiwari2/AWS-STORAGE-BROWSER/raw/main/Screenshot%202025-07-03%20190448.png)
+*Upload file UI*
+
+![Uploaded Files View](https://github.com/Hariomtiwari2/AWS-STORAGE-BROWSER/raw/main/Screenshot%202025-07-03%20190506.png)
+*List of uploaded files with download option*
+
+![Authentication Page](https://github.com/Hariomtiwari2/AWS-STORAGE-BROWSER/raw/main/Screenshot%202025-07-03%20190615.png)
+
 ---
 
 ## 🧑‍💻 Getting Started
