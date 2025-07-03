@@ -36,13 +36,3 @@ A modern, secure, and scalable file-sharing web application built using **AWS S3
 
 ![Authentication Page](https://github.com/Hariomtiwari2/AWS-STORAGE-BROWSER/raw/main/Screenshot%202025-07-03%20190615.png)
 
----
-
-## 🧑‍💻 Getting Started
-
-### Prerequisites
-
-- Node.js & npm
-- AWS Account with Amplify, S3, and DynamoDB access
-- Amplify CLI installed (`npm install -g @aws-amplify/cli`)
-
