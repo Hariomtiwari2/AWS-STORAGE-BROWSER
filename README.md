@@ -27,7 +27,8 @@ A modern, secure, and scalable file-sharing web application built using **AWS S3
 ---
 
 ##
-(https://github.com/user-attachments/assets/8d891b9d-dd20-4c06-9bfd-715f62306a7d)
+![App Screenshot](https://github.com/Hariomtiwari2/AWS-STORAGE-BROWSER/raw/main/Screenshot%202025-07-03%20190448.png)
+
  
 ---
 
